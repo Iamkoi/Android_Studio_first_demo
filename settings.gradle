@@ -1,0 +1,6 @@
+/*
+ * 版权所有 2020-2022lyt保留所有权
+ */
+
+include ':app'
+rootProject.name='My Application'
